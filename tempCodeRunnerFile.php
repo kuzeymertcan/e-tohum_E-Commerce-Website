@@ -1,0 +1,2 @@
+<?php
+user already exist!
