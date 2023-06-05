@@ -1,2 +1,0 @@
-<?php
-user already exist!
