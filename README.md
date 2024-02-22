@@ -10,12 +10,12 @@ https://youtu.be/T97SJY10Ev0
 
 3. Son olarak XAMPP kontrol panelinden "Apache" ve "MySQL" modüllerini başlatın.
 
-Admin hesaplarının bilgileri:
+Admin hesaplarının bilgileri:  
 
-Kullanıcı adı: Admin-1
-E-posta adresi: admin1@gmail.com
-Şifre: 123
+Kullanıcı adı: Admin-1  
+E-posta adresi: admin1@gmail.com  
+Şifre: 123  
 
-Kullanıcı adı: Admin-2
-E-posta adresi: admin2@gmail.com
-Şifre: 456
+Kullanıcı adı: Admin-2  
+E-posta adresi: admin2@gmail.com  
+Şifre: 456  
